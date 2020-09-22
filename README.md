@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Header](https://spearuav.com/wp-content/themes/Spear/images/header-logo-red.png "Header")](https://some-url.dev/)
+
+🔭 I’m working at [Spear UAV](https://spearuav.com) I'm building command and control software for a family of new unmanned drones.
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=tzuriel-spearuav&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+📫 Reach me at [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tzuriellampner)
 
 <!--
 **tzuriel-spearuav/tzuriel-spearuav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
