@@ -1,6 +1,6 @@
 [![Header](https://spearuav.com/wp-content/themes/Spear/images/header-logo-red.png "Header")](https://some-url.dev/)
 
-🔭 I’m working at [Spear UAV](https://spearuav.com) I'm building command and control software for a family of new unmanned drones.
+🔭 I’m working at [Spear UAV](https://spearuav.com), building command and control software for a family of new unmanned drones.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=tzuriel-spearuav&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
