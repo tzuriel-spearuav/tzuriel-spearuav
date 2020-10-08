@@ -4,7 +4,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=tzuriel-spearuav&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-📫 Reach me at [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tzuriellampner)
+📫 Reach me at [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tzuriellampner), or at my personal email - [![Gmail Badge](https://img.shields.io/badge/-tzuriel.lampner@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tzuriel.lampner@gmail.com)](mailto:tzuriel.lampner@gmail.com) 
 
 <!--
 **tzuriel-spearuav/tzuriel-spearuav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
