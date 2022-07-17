@@ -2,6 +2,8 @@
 
 🔭 Hello, my name is Tzuriel Lampner, I’m working at [Spear UAV](https://spearuav.com), building command and control software for a family of new unmanned drones.
 
+📫 Reach me at [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzuriellampner/), or at my personal email - [![Gmail Badge](https://img.shields.io/badge/-tzuriel.lampner@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tzuriel.lampner@gmail.com)](mailto:tzuriel.lampner@gmail.com) 
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=tzuriel-spearuav&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -16,5 +18,3 @@
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 </p>
-📫 Reach me at [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tzuriellampner), or at my personal email - [![Gmail Badge](https://img.shields.io/badge/-tzuriel.lampner@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tzuriel.lampner@gmail.com)](mailto:tzuriel.lampner@gmail.com) 
-
