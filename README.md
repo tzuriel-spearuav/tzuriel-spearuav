@@ -1,4 +1,4 @@
-[![Header](https://spearuav.com/wp-content/themes/Spear/images/header-logo-red.png "Header")](https://some-url.dev/)
+[![Header](https://spearuav.com/wp-content/uploads/2023/09/Viper-300-plan-views.13-1-1024x262.png "SpearUAV")](https://spearuav.com/)
 
 🔭 Hello, my name is Tzuriel Lampner, I’m working at [Spear UAV](https://spearuav.com), building command and control software for a family of new unmanned drones.
 
